@@ -82,7 +82,7 @@ body {
     animation: rotate 12s linear infinite;
     animation-play-state: paused;
     display: flex;
-    height: clamp(200px, calc(100% - 200px), 100%);
+    height: clamp(200px, calc(50% - 200px), 100%);
     justify-content: center;
     width: clamp(200px, calc(100% - 200px), 100%);
     z-index: 1;
